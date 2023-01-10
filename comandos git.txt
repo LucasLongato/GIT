@@ -1,0 +1,55 @@
+Comandos Git 
+
+
+
+Windows ou Linux 
+
+
+
+**O que e  Controle de Versão??
+
+Controle de versão sao copias de projetos de diversas versoes se precisar voltar para versão antiga 
+Definiçao: Sistema com a finalidade de gerenciar diferentes versões de um documento.
+as 2 principais coisa
+1-Versionar os projetos
+2- outros sistemas trabalhao com a diferença dos sistemas enquanto o git trabalha com estados do arquivo
+__________________________________________________________________________________________________________________
+Para configurar na maquina usa o comando 
+++++++++++++++++++++++++++++++++++++
+$  git config --global user.name "Nome do usuario"
+++++++++++++++++++++++++++++++++++++
+e da enter 
+E agora pra configurar o email
+++++++++++++++++++++++++++++++++++++
+$git config --global user.email "email"
+++++++++++++++++++++++++++++++++++++
+e da enter
+
+Definir o editor 
+++++++++++++++++++++++++++++++++++++
+$git config --global core.editor 
+++++++++++++++++++++++++++++++++++++
+
+
+Pra saber as informaçoes do git
+++++++++++++++++++++++++++++++++++++
+$git config --list
+++++++++++++++++++++++++++++++++++++
+
+__________________________________________________________________________________________________________________
+
+Incicalizar um repositorio
+++++++++++++++++++++++++++++++++++++
+$mkdir (e o nome da pasta)
+++++++++++++++++++++++++++++++++++++
+agora entra dentro da pasta 
+++++++++++++++++++++++++++++++++++++
+$dir (nome da pasta)
+++++++++++++++++++++++++++++++++++++
+para inicializar o repositorio
+++++++++++++++++++++++++++++++++++++
+$git init
+++++++++++++++++++++++++++++++++++++
+
+
+
